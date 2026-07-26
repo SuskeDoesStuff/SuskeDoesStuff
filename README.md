@@ -36,10 +36,6 @@ Pursuing **MSc Artificial Intelligence** at Queen Mary University of London. I l
 
 ### 🧩 What I'm building
 
-**🧪 Interactive Training Lab** &nbsp;·&nbsp; `PyTorch` `Gradio` `Plotly`
-- Real-time CIFAR-10 dashboard that composes CNNs from 11 layer types (67K–108M params) and benchmarks 5 optimizers with live per-step curves
-- Thread-safe, event-sourced backend supporting mid-run optimizer hot-swaps, LR scheduling, pause/resume, and full time-scrubbed experiment replay — plus a CLI, auto-generated reports, and single-image inference
-
 **🌲 RL-MCTS** &nbsp;·&nbsp; `Python` `Java` `Gymnasium`
 - PyTAG → TAG bridge: train RL policies in Python, serve them into a Java MCTS framework for evaluation
 - Tuned tournament infrastructure: game-specific MCTS params, metric-reporting game listeners, reproducible logged runs across `BUDGET_TIME` and `BUDGET_FM_CALLS` regimes
