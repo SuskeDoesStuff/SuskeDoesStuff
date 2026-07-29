@@ -1,4 +1,4 @@
-# Hi, I'm Keshav 👋
+# Hi! 👋
 
 Pursuing **MSc Artificial Intelligence** at Queen Mary University of London. I like building tools that make models easier to train, inspect, and reason about! Right now I'm researching whether learned networks can make classical search algorithms smarter.
 
@@ -45,7 +45,7 @@ Pursuing **MSc Artificial Intelligence** at Queen Mary University of London. I l
 
 ### 🌱 A bit more
 
-- 🎓 MSc AI @ Queen Mary University of London (expected Sept 2026) · B.Tech CS (AI & ML)
+- 🎓 MSc AI @ Queen Mary University of London (expected Sept 2026)
 - 🧠 Past work in generative AI — built a Google Document AI pipeline processing 10,000+ documents, and worked across Vertex AI
 - 📄 Co-authored a peer-reviewed review on AI-driven PCB defect detection (IC3SE-2025)
 - 🎮 Off the clock: long-time Pokémon fan, usually grinding through Johto in HGSS
