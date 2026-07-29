@@ -48,7 +48,7 @@ Pursuing **MSc Artificial Intelligence** at Queen Mary University of London. I l
 - 🎓 MSc AI @ Queen Mary University of London (expected Sept 2026)
 - 🧠 Past work in generative AI — built a Google Document AI pipeline processing 10,000+ documents, and worked across Vertex AI
 - 📄 Co-authored a peer-reviewed review on AI-driven PCB defect detection (IC3SE-2025)
-- 🎮 Off the clock: long-time Pokémon fan, usually grinding through Johto in HGSS
+- 🎮 Off the clock: Gaming hard games.
 
 ---
 
