@@ -50,12 +50,6 @@ Pursuing **MSc Artificial Intelligence** at Queen Mary University of London. I l
 - 📄 Co-authored a peer-reviewed review on AI-driven PCB defect detection (IC3SE-2025)
 - 🎮 Off the clock: Gaming hard games.
 
----
-
-### 📫 Reach me
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:keshavshyper6325@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshavshyper/)
 
 <!--
 Tip: this README lives in a repo named EXACTLY after your GitHub username
